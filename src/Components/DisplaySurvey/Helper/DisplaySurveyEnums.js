@@ -1,0 +1,9 @@
+export const QuestionType = {
+    OPEN_ENDED: 'OPEN_ENDED',
+    LIKERT: 'LIKERT',
+    MATRIKS: 'MATRIKS',
+    MULTI_SELECTION: 'MULTI_SELECTION',
+    SINGLE_SELECTION: 'SINGLE_SELECTION',
+
+
+  };
